@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo ul img {
+    height: 100%;
+    width: 30%;
+}
+
+.logo ul {
+    top: 0;
+    left: 0;
+    position: fixed;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    padding: 5px;
+    margin: auto;
+    width: 100%;
+    height: 7%;
+}
+
+.logo2 img {
+    margin-top:45px ;
+    overflow: hidden;
+    width: 110%;
+    
+} 
+
+ul a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px; 
+}
+
+
+.description {
+    text-align: center;
+    font-size: 1.5em; 
+    padding: 0 1em; 
+    font-weight: bold;
+}
+
+.recommended ul  {
+    background: rgb(154, 28, 28);
+    width: 100%;
+    border-radius: 30%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.recommended {
+    font-weight: bold;
+    font-size: 2em; 
+}
+
+.ofertas ul {
+    background: rgb(154, 28, 28);
+    width: 100%;
+    border-radius: 30%;
+    margin-top: 10px;
+}
+
+.ofertas {
+    font-weight: bold;
+    font-size: 2em; 
+    text-align: center;
+}
+
+.menu_restaurant ul {
+    background: rgb(154, 28, 28);
+    width: 100%;
+    border-radius: 30%;
+    margin-top: 10px;
+
+}
+
+.menu_restaurant {
+    font-weight: bold;
+    font-size: 2em; 
+    text-align: center;
+}
+
+.tienda {
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.section {
+    background: black;
+    margin-top: 20px;
+}
+
+.top {
+    text-align: center;
+    color: #f9f9f9;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#menu1  img{
+    text-align: center;
+    width: 200px;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    right: auto;
+}
+
+#menu1 {
+    text-align: center;
+    color: #f9f9f9;
+    margin-top: 20px;
+}
+
+#menu1 ul {
+    background-color: rgb(59, 54, 54);
+    width: 70%;
+    border-radius: 30%;
+    display: inline-block;
+}
+
+
+.menu2  img{
+    text-align: center;
+    width: 200px;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    right: auto;
+}
+
+.menu2 {
+    text-align: center;
+    color: #f9f9f9;
+    margin-top: 20px;
+}
+
+.menu2 ul {
+    background-color: rgb(59, 54, 54);
+    width: 70%;
+    border-radius: 30%;
+    display: inline-block;
+    margin-bottom: 40px;
+}
